@@ -1,7 +1,7 @@
 
 const Profile = () => {
   return (
-    <div className='w-72 bg-white h-20 rounded-lg shadow-gray-300 shadow-lg flex items-center mt-16'>
+    <div className='w-72 bg-white h-20 rounded-lg shadow-gray-300 shadow-lg flex items-center mt-16 mb-6'>
       <div className="ml-3.5">
           <img className="w-14 h-14 rounded-full" src="https://api.lorem.space/image/face?hash=28212" alt="user avatar"/>
       </div>
