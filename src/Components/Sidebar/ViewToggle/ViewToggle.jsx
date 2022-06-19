@@ -6,7 +6,7 @@ const ViewToggle = () => {
       <div className="mt-2">
         <h2 className="text-2xl font-bold text-center">View Toggle</h2>
       </div>
-      <div className="w-52 h-20 bg-slate-200 rounded-lg flex justify-center">
+      <div className="w-52 h-20 bg-slate-200 rounded-lg flex justify-center shadow-gray-300 shadow-inner">
         <div className="flex justify-center items-center pr-5 border-r-gray-300 border-r">
           <MdOutlineFeaturedPlayList className="text-5xl" />
         </div>
